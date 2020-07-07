@@ -1,3 +1,3 @@
 # HuEscreva
 Editor de Texto simples e em fase inicial
-A pasta HuEscrever é uma pasta com o arquivo .Jar
+a pasta HuEscrever é uma pasta com o arquivo .Jar
